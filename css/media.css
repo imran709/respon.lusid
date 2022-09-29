@@ -1,0 +1,221 @@
+@media(max-width:2500px){
+    .contact_us form {
+       width: 93%;
+    }
+   .contact_us form textarea {
+       width: 568px;
+    }
+    .flexex {
+     margin-left: 63px;
+    }
+}
+@media(max-width:1920px) {
+      .flexex {
+      margin-left: 60px;
+    }
+    .contact_us form textarea {
+        width: 408px;
+    }
+}
+@media(max-width:1400px){
+    .contact_us form textarea {
+    width: 277px;}}
+@media(max-width:1024px){
+    .btn_download, .btn_feature {
+        padding: 4px 12px;
+        margin-left: 15px;
+        font-size: 14px;
+    }
+    .footer p {
+        margin-left: -8px;}
+}
+@media(max-width:767px){
+    .nav-item{
+        padding: 0%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;}
+        .navbar-collapse{
+            text-align: center;
+        }
+        .navbar-nav{
+            text-align: center;
+            background: #f0f8ff0f;
+       border-radius: 20px;   
+      display: inline-block;
+      padding: 10px 55px;
+      margin-top: 20px;
+        }
+        .height {
+            text-align: center;}
+            .like_hote {
+             height: 140px;          
+            }
+            .contact_us {
+            padding-bottom: 386px;
+            }          
+            .flexex {
+             margin-left: 115px;
+            }            
+            .pricing {
+             margin-bottom: 15px;
+            }
+            .footer p {
+                margin-left: -3px;}
+                .contact_us {
+                    padding-bottom: 420px;
+                }
+                .contact_us form {
+                margin-left: 20px;
+                }
+                .contact_us form textarea {
+                    width: 448px
+                }
+}
+@media(max-width:575px){
+    .nav-item{
+        padding: 0%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;}
+        .navbar-collapse{
+            text-align: center;
+        }
+        .navbar-nav{
+            text-align: center;
+            background: #f0f8ff0f;
+       border-radius: 20px;   
+      display: inline-block;
+      padding: 10px 55px;
+      margin-top: 20px;
+        }
+        .height {
+        text-align: center;}
+        .header h1 {
+          font-size: 28p}
+        .header p {
+           padding: 20px;}  
+           .btn_download, .btn_feature{
+           padding: 8px 24px;}
+           .banner-right img {
+            width: 250px;
+            margin-left: 160px;
+            margin-top: 20px;
+        }
+        .align-items-end {
+            flex-direction: column-reverse;
+        }
+        .height {
+           min-height: 60vh;           
+        }
+        .btn_download, .btn_feature {
+            padding: 6px 16px;
+            margin-left: 30px;
+        }
+        .like_hote h4 {
+            margin-top: -19px;}
+            .prisint_plants {
+             padding: 26px 70px 27px;
+            }
+            .two_airtical p {
+              margin-top: 0px;
+            }
+            .pricing {
+             margin-bottom: 20px;}
+             .contact_us {
+                padding: 40px;
+                padding-bottom: 322px;
+            }        
+        .contact_us form {
+            padding: 16px;
+        }
+        .flexex {
+           margin-left: 112px;}
+           .footer p {
+            margin-left: -17px;
+         }                  
+         .contact_us form textarea {
+            width: 402px;
+        }
+}
+@media(max-width:414px){
+    .banner-right img {
+        width: 240px;
+        margin-left: 75px;}
+        .height {
+            min-height: 50vh;
+        }
+        .btn_download, .btn_feature {
+            padding: 4px 8px;
+            margin-left: 15px;
+            font-size: 12px;
+        }
+        .contact_us {
+          padding-bottom: 356px;
+        }
+        .contact_us form textarea {
+            width: 275px;
+        }
+        .flexex {
+            margin-left: 50px;
+        }
+        .footer p {
+            margin-left: 7px;           
+        }
+}
+    @media(max-width:393px){
+    .banner-right img {
+    margin-left: 47px;}
+    .height {
+        min-height: 52vh;
+    }
+       .beautiful {
+        padding: 10px;
+    }
+    .beautiful p {
+        font-size: 16px;
+    }
+    .costomiz {
+        margin-top: 0px;
+    }
+    .btn_download, .btn_feature {
+        margin-left: 0px;
+    }
+    .like_hote {
+      height: 116px;}
+      .btn_download, .btn_feature {
+        padding: 5px 6px;    
+    }
+    .contact_us {
+      padding-bottom: 353px;}
+      .footer p {
+        margin-left: -6px;       
+    }
+    .flexex {
+        margin-left: 30px;
+    }
+    .contact_us form textarea {
+        width: 224px;
+    }
+  
+}
+@media(max-width:360px){
+    .height {
+        min-height: 55vh;
+    }
+    .two_airtical p {
+        margin-top: -20px;
+        font-size: 14px;
+    }
+    .plan_section {
+        font-size: 14px;
+        margin-bottom: 6px;
+    }
+    .contact_us form textarea {
+        width: 216px;
+    }
+    .flexex {
+        margin-left: 14px;
+    }
+}
+/* and (max-width:1400px) */
